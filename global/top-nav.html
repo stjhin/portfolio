@@ -1,3 +1,5 @@
+<!--#set var="param" value="$QUERY_STRING"-->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -56,16 +58,25 @@
         <div id="navbar-collapse" class="collapse navbar-collapse ml-auto">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
+             <!--#if expr="${param} == 'about'" -->
                  <a class="nav-link active" href="/about.html">About</a>
+             <!--#else-->
                  <a class="nav-link" href="/about.html">About</a>
+             <!--#endif-->
             </li>
             <li class="nav-item">
+             <!--#if expr="${param} == 'home'" -->
                 <a class="nav-link active" href="/">Design</a>
+             <!--#else-->
                  <a class="nav-link" href="/">Design</a>
+             <!--#endif-->
             </li>
             <li class="nav-item">
+             <!--#if expr="${param} == 'experiments'" -->
                 <a class="nav-link active" href="/frontend.html">Front-End</a>
+             <!--#else-->
                  <a class="nav-link" href="/frontend.html">Front-End</a>
+             <!--#endif-->
             </li>
     <!-- Contact Form -->
             <li class="nav-item">
