@@ -24,7 +24,7 @@ iframe {
 
 .heading-desc {
     padding: 10% 1rem;
-    font-family: "Rubik",sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 2.5vw;
     color: #007bff;
@@ -32,7 +32,7 @@ iframe {
 
 .headline {
     padding: 5% 0;
-    font-family: "Rubik",sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-weight: 300;
     font-size: 2.25vw;
     color: #007bff;
@@ -40,7 +40,7 @@ iframe {
 
 .headline-xl {
     padding: 5% 0;
-    font-family: "Rubik",sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 3vw;
     color: #007bff;
@@ -48,7 +48,7 @@ iframe {
 
 .headline-m {
     padding: 0;
-    font-family: "Rubik",sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 2vw;
     color: #007bff;  
@@ -56,7 +56,7 @@ iframe {
 
 .headline-xs {
     padding-bottom: 10%;
-    font-family: "Rubik",sans-serif;
+    font-family: "Open Sans",sans-serif;
     font-weight: 300;
     font-size: 1.75vw;
     color: #007bff;
@@ -66,7 +66,7 @@ a.button {
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    font-family: "Roboto", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 700;
     font-size: 1rem;
     width: 100%;
@@ -95,7 +95,7 @@ a.button:hover {
 }
 
 .about-title {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
     padding: 1rem 0;
@@ -105,7 +105,7 @@ a.button:hover {
 }
 
 .about-subtitle {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
     color: #bbb;
@@ -114,7 +114,7 @@ a.button:hover {
 }
 
 .about-element {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 500;
     font-size: 1rem;
     color: #f7fbff;
@@ -123,14 +123,14 @@ a.button:hover {
 }
 
 .about-text {
-    font-family: "EB Garamond", serif;
+    font-family: "Open Sans", serif;
     font-weight: 400;
     font-size: 1rem;
     color: #555;
 }
 
 .overview-text {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 500;
     font-size: 1.25rem;
     color: #555;
@@ -138,7 +138,7 @@ a.button:hover {
 }
 
 .carousel-text {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 700;
     font-size: 1rem;
     color: #333;
@@ -298,14 +298,14 @@ a.button:hover {
 }
 
 .sidenav-title {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     font-weight: 500;
     color: #333;
 }
 
 a.sidenav-link {
-    font-family: "Rubik", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     font-weight: 400;
     color: #777;
