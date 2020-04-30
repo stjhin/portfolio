@@ -27,7 +27,7 @@ iframe {
     font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 2.5vw;
-    color: #007bff;
+    color: #f7fbff;
 }
 
 .headline {
@@ -35,7 +35,7 @@ iframe {
     font-family: "Open Sans",sans-serif;
     font-weight: 300;
     font-size: 2.25vw;
-    color: #007bff;
+    color: #f7fbff;
 }
 
 .headline-xl {
@@ -43,7 +43,7 @@ iframe {
     font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 3vw;
-    color: #007bff;
+    color: #f7fbff;
 }
 
 .headline-m {
@@ -51,7 +51,7 @@ iframe {
     font-family: "Open Sans",sans-serif;
     font-weight: 400;
     font-size: 2vw;
-    color: #007bff;  
+    color: #f7fbff;  
 }
 
 .headline-xs {
@@ -59,7 +59,7 @@ iframe {
     font-family: "Open Sans",sans-serif;
     font-weight: 300;
     font-size: 1.75vw;
-    color: #007bff;
+    color: #f7fbff;
 }
 
 a.button {
@@ -84,7 +84,7 @@ a.button:hover {
 }
 
 .card:hover {
-    background-color: #95caff;
+    background-color: #263049;
 }
 
 .img-portrait {
@@ -126,14 +126,14 @@ a.button:hover {
     font-family: "Open Sans", serif;
     font-weight: 400;
     font-size: 1rem;
-    color: #555;
+    color: #ddd;
 }
 
 .overview-text {
     font-family: "Open Sans", sans-serif;
     font-weight: 500;
     font-size: 1.25rem;
-    color: #555;
+    color: #ddd;
     margin-bottom: 1rem;
 }
 
@@ -141,8 +141,12 @@ a.button:hover {
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
     font-size: 1rem;
-    color: #333;
+    color: #ddd;
     text-transform: uppercase;
+}
+
+.background-white {
+    background-color: #f7fbff;
 }
 
 /* Modal Card */
@@ -159,7 +163,7 @@ a.button:hover {
   background-clip: border-box;
     display: flex;
     padding: 10px;
-    background-color: #deeeff;
+    background-color: #263049;
 }
 
 .card-1 {
@@ -175,7 +179,7 @@ a.button:hover {
   background-clip: border-box;
     display: flex;
     padding: 10px;
-    background-color: #deeeff !important;
+    background-color: #263049 !important;
 }
 
 .card-2 {
@@ -192,7 +196,7 @@ a.button:hover {
   flex-direction: row;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #deeeff;
+  background-color: #263049;
   background-clip: border-box;
     padding: 10px;
     display: block;
@@ -301,7 +305,7 @@ a.button:hover {
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     font-weight: 500;
-    color: #333;
+    color: #ddd;
 }
 
 a.sidenav-link {
