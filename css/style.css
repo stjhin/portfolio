@@ -94,6 +94,19 @@ a.button:hover {
   height: auto;
 }
 
+a.img-topnav {
+    background: url('/Images/index/st1.png') no-repeat;
+    height: 50px;
+    width: 50px;
+    margin: 1rem 1rem 1rem 0;
+    border-radius: 7px;
+}
+
+a.img-topnav:hover {
+    background: url('/Images/index/st2.png') no-repeat;
+    border-radius: 7px;
+}
+
 .about-title {
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
@@ -453,7 +466,7 @@ a.sidenav-title.active {
     }
     
     .headline {
-        font-size: 6.5vw;
+        font-size: 3vw;
     }
     
     .headline-xl {
@@ -465,7 +478,7 @@ a.sidenav-title.active {
     }
     
     .headline-xs {
-        font-size: 5vw;
+        font-size: 3vw;
     }
     
     .badge {
@@ -477,7 +490,8 @@ a.sidenav-title.active {
     }
 /* Ipad Sidenav */  
     .container-sidenav {
-        flex-direction: row;
+        display: flex;
+        flex-direction: column;
         position: relative !important;
         flex: 0;
         right: 0;
