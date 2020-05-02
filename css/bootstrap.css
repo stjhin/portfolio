@@ -2778,8 +2778,8 @@ fieldset:disabled a.btn {
   color: #007bff;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
-  border: solid 2px #007bff;
-    border-radius: 10vw;
+  border: solid 1px #007bff;
+  border-radius: 0.25rem;
 }
 
 .btn-outline-primary:hover {
@@ -4489,6 +4489,7 @@ tbody.collapse.show {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .card-title {
@@ -4898,8 +4899,9 @@ tbody.collapse.show {
 }
 
 .badge-primary {
-  color: #f7fbff;
-  background-color: #007bff;
+  color: #007bff;
+  border: 1px solid #007bff;
+  font-weight: 500;
 }
 
 .badge-primary[href]:hover, .badge-primary[href]:focus {
