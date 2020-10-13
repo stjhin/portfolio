@@ -332,16 +332,12 @@ a.sidenav-link:hover {
     border-bottom: 2px solid #007bff;
 }
 
-ul.sidenav-list {
-}
-
 .sidenav-list.hide {
     display: none;
 }
 
 a.sidenav-title.active {
    border-bottom: 3px solid #aaa;
-    
 }
 
 
