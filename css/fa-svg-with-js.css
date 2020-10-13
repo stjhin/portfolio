@@ -155,7 +155,7 @@ svg:not(:root).svg-inline--fa {
           transform-origin: top left; }
 
 .fa-lg {
-  font-size: 1.5rem;
+  font-size: 3rem;
   line-height: 0.75em;
   vertical-align: -.0667em; }
 
@@ -302,9 +302,9 @@ svg:not(:root).svg-inline--fa {
 
 .fa-stack {
   display: inline-block;
-  height: 2em;
+  height: 2rem;
   position: relative;
-  width: 2em; }
+  width: 2rem; }
 
 .fa-stack-1x,
 .fa-stack-2x {
@@ -316,12 +316,12 @@ svg:not(:root).svg-inline--fa {
   top: 0; }
 
 .svg-inline--fa.fa-stack-1x {
-  height: 1em;
-  width: 1em; }
+  height: 1rem;
+  width: 1rem; }
 
 .svg-inline--fa.fa-stack-2x {
-  height: 2em;
-  width: 2em; }
+  height: 2rem;
+  width: 2rem; }
 
 .fa-inverse {
   color: #fff; }
