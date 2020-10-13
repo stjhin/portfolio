@@ -361,7 +361,7 @@ a.sidenav-title.active {
     color: #263049;
     margin: .5rem 2rem 2rem 0;
     font-size: .8rem;
-    border-radius: 50%;
+    border-radius: 1rem;
     text-align: center;
     vertical-align: middle;
     font-weight: 600;
