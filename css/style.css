@@ -167,6 +167,12 @@ a.img-topnav:hover {
     margin-bottom: 2rem;
 }
 
+.container-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 20vw;
+}
+
 /* Modal Card */
 .card-0 {
       position: relative;
