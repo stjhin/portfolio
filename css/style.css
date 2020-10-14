@@ -96,16 +96,16 @@ a.button:hover {
 }
 
 a.img-topnav {
-    background: url('/Images/index/st1.png') no-repeat;
+    background: url('/Images/index/st1.svg') no-repeat;
     height: 50px;
     width: 50px;
     margin: 1rem 1rem 1rem 0;
-    border-radius: 7px;
+    border-radius: 5px;
 }
 
 a.img-topnav:hover {
-    background: url('/Images/index/st2.png') no-repeat;
-    border-radius: 7px;
+    background: url('/Images/index/st2.svg') no-repeat;
+    border-radius: 5px;
 }
 
 .about-title {
