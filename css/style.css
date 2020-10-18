@@ -173,6 +173,11 @@ a.img-topnav:hover {
     margin-right: 20vw;
 }
 
+.imgPreview {
+    width: 50vw;
+    margin-bottom: 2rem;
+}
+
 /* Modal Card */
 .card-0 {
       position: relative;
@@ -352,11 +357,6 @@ a.sidenav-title.active {
 }
 
 /* Icons */
-.colSkil {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10%;
-}
 .colSkill {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -368,7 +368,7 @@ a.sidenav-title.active {
     color: #263049;
     margin: .5rem 2rem 2rem 0;
     font-size: .8rem;
-    border-radius: 1rem;
+    border-radius: .5rem;
     text-align: center;
     vertical-align: middle;
     font-weight: 600;
